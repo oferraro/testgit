@@ -1,0 +1,15 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375434071000 347 9e719a616be6006825940bf43a1721e43c150ab6 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/BuildConfig.class
+1375434071000 396 9f28efc78095748555c892a7436e68a2dc71c0b5 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R$id.class
+1375434071000 687 4226c937f58856d3c77e59a366ce4082491b96fd /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R.class
+1375434071000 475 0dee3f870cbdea3b9195df56441732a3f01b372d /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R$string.class
+1375434071000 391 9b2a2e38b79887d0b688af73740ae03a3166fa5f /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R$menu.class
+1375434071000 434 204ac0333e4a1a798d43fa4343ebac7dd4de0b22 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R$style.class
+1375434071000 464 7eb2cee97947715b870a272dd37631dd11ed0152 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R$dimen.class
+1375434071000 406 f5dc0009b0141ab926e36dea74defca638cc0f80 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R$layout.class
+1375434071000 819 d42fe8d61f313b2f6c78c0b799ec075269679fd4 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/MainActivity.class
+1375434071000 343 9e30808f83b7033994325619d3261034f99402ac /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R$attr.class
+1369432937000 490914 3fe75433da602500cc71fcc1c46e5550291dd45d /home/oscar/Downloads/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/13.0.0/support-v4-13.0.0.jar
+1375434071000 410 40d8d56c91051086193ecb919a2b85419c7e6ab0 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/classes/debug/com/example/testgit/R$drawable.class

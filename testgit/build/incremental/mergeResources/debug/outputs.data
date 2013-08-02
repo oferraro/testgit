@@ -1,0 +1,13 @@
+# incremental data. DO NOT EDIT.
+# format is <lastModified> <length> <SHA-1> <path>
+# Encoding is UTF-8
+1375434056000 250 38a6235c7af246ec3ce57becfbbb2f67f1bc1936 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/values-sw720dp-land/values.xml
+1375434056000 319 149a7c6635cee757c62c77dee9039abc822b4c09 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/values-v11/values.xml
+1375434055000 333 069fc6e40cca20bd86befbc597cc43d563e3e824 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/values-v14/values.xml
+1375434056000 9332 4e0e62a430558d0cce3c5dee6f4709055a63a45c /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/drawable-xhdpi/ic_launcher.png
+1375434055000 763 bb09f428b760c4c2819f2fbeec330d78397284cd /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/layout/activity_main.xml
+1375434055000 347 8ac1c9ea40142a2f17abf393d5caf47b9639f1f5 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/menu/main.xml
+1375434056000 3121 c13193c37274d333ac028cc72c260b891662d9d0 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/drawable-mdpi/ic_launcher.png
+1375434055000 1120 18b434efc95b86ae547b7bfa6071ac3bc4d6b792 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/values/values.xml
+1375434057000 17765 702fd3311475c099afc13c0b03375d917cc82018 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/drawable-xxhdpi/ic_launcher.png
+1375434055000 5946 4bf7402bd7df466a787014bdbf5cafd9aa89c2b5 /home/oscar/AndroidStudioProjects/testgitProject/testgit/build/res/all/debug/drawable-hdpi/ic_launcher.png
